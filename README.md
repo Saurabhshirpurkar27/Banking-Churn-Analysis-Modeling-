@@ -135,3 +135,5 @@ This detailed description serves as a guide for implementing a customer churn pr
 
 
 https://github.com/Saurabhshirpurkar27/Banking-Churn-Analysis-Modeling-/blob/main/screenshot/churning.JPG
+
+https://github.com/Saurabhshirpurkar27/Banking-Churn-Analysis-Modeling-/blob/main/screenshot/churnning%202.JPG
